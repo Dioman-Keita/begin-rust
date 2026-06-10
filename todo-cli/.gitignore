@@ -1,0 +1,15 @@
+target/
+
+# Local build artifacts
+**/*.rs.bk
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
